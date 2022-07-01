@@ -1,4 +1,6 @@
-https://i.ibb.co/QC409yK/SV-Banner-Comp.png
+<p align="center">
+  <img src="https://i.ibb.co/QC409yK/SV-Banner-Comp.png" title="hover text">
+</p>
 
 # Underworld Servers is a RedM community found at discord.uws.gg
 
